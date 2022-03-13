@@ -1,0 +1,4 @@
+/* Template header for version definitions from CMake */
+
+#define APP_VERSION_MAJOR      @app-project_VERSION_MAJOR@
+#define APP_VERSION_MINOR      @app-project_VERSION_MINOR@

@@ -1,0 +1,3 @@
+# Default configuration for this project.
+
+CONFIG_TEST_OPTION=y
