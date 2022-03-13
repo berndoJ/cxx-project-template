@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.h.in": "c",
+        "version.h": "c",
+        "autoconf.h": "c",
+        "stdio.h": "c"
+    }
+}
